@@ -1,0 +1,6 @@
+Specifications of Mercedes 2022 Model:
+
+250 kWh and 300 kWh
+Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
+Max. power, motor			350 hp 285 kW		625 hp 285 kW
+Max. power, battery			355 hp 175 kW		950 hp 225 kW

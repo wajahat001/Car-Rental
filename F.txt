@@ -1,0 +1,6 @@
+Specifications Of Suzuku Swift 2020 Model :
+
+75 kWh and 100 kWh
+Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
+Max. power, motor			85 km/h 520 rpm		382 hp 75 kW
+Max. power, battery			120 km/h 600 rpm	302 hp 100 kW

@@ -1,0 +1,6 @@
+Specifications Of Bently 2020 Model:
+
+400 kWh and 475 kWh
+Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
+Max. power, motor			700 hp 285 kW		700 hp 285 kW
+Max. power, battery			900 hp 175 kW		400 hp 225 kW

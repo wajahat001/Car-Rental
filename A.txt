@@ -1,0 +1,6 @@
+Specifications of BMW 2020 Model:
+
+150 kWh and 250 kWh
+Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
+Max. power, motor			255 hp 150 rpm		382 hp 285 kW
+Max. power, battery			275 hp 250 kW		302 hp 225 kW
